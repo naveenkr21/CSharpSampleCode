@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DocumentProcessor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CMSPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\CMS\Filelocation</Value>
+    </Setting>
+    <Setting Name="Logfile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\log\Logfile.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
